@@ -67,16 +67,7 @@ export default class App extends React.Component{
 })
 .then((response) => {
 
-//  const contentType = response.headers.get('Content-Type');
-  //alert(response);
-  
-//  if (contentType && contentType.indexOf('application/json')==1){
 
-   // alert('i WORK BITCH');
- //   return response.json();
-    
-
- // }
   
  
         var ok = response.ok;
